@@ -1,0 +1,64 @@
+body {
+  background-color: #012634;
+  font-family: sans-serif;
+
+}
+
+
+h1  {
+text-align: center;
+color: grey;
+}
+
+h2 {
+  color: cadetblue;
+}
+
+li {
+  color:darkcyan
+}
+
+
+p {
+  color:grey;
+  text-align: center;
+}
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px
+}
+
+.overskrift {
+  margin-top: 50px;
+  font-size: 30px;
+  font-style: normal;
+}
+
+.forfatter {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.bilde {
+width: 200px;
+border-radius: 50%;
+border-color: Grey;
+border-width: 4px;
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.bilde2 {
+  width: 250px;
+  border-radius: 40%;
+float: right;
+}
+
+.bilde3 {
+  width: 300px;
+border-radius: 10px;
+}
